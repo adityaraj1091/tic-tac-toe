@@ -21,9 +21,9 @@ const winPattern=[
 
 const checkTurn=()=>{
     if(turn0){
-        turn.innerText="next turn: X";
+        turn.innerText="Next turn: X";
     }else{
-        turn.innerText="next turn: O";
+        turn.innerText="Next turn: O";
     }
 }
 const newGame=()=>{
