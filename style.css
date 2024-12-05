@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-color: rgb(140, 75, 137);
+    background-color: #CAD2C5;
     text-align: center;
 }
 .container{
@@ -28,8 +28,8 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,0.5);
     font-size: 8vmin;
-    color: red;
-    background:#f1ea5e;
+    color: #EBEBEB;
+    background:#52489C;
 }
 #reset{
     margin-top: 5vmin;
